@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="3.0">
+  <!-- DEFAULT -->
+
+<category>
+    <pattern>START</pattern>
+        <template>
+            <random>
+                <li>Hola, ¿En qué puedo ayudarte? 😀</li>
+                <li>Bienvenido, ¿En qué puedo ayudarte?</li> 
+            </random>
+        </template>
+</category>
+
+
+<category>
+    <pattern>HOLA</pattern>
+      <template>
+            <random>
+                <li>Hola, ¿En qué puedo ayudarte? 😀</li>
+                <li>Bienvenido, ¿En qué puedo ayudarte?</li> 
+            </random>
+        </template>
+</category>
+
+
+<category>
+      <pattern>* HORARIOS *</pattern>
+      <template>
+        Lunes de 7:00 a 17:00 Hrs ---
+        Martes de 7:00 a 17:00 Hrs ---
+        Miercoles de 7:00 a 17:00 Hrs ---
+        Jueves de 7:00 a 17:00 Hrs ---
+        Viernes de 7:00 a 17:00 Hrs ---
+        Sabado de 8:00 a 12:00 Hrs ---
+      </template>
+</category>
+
+
+<category>
+      <pattern>* HORARIO *</pattern>
+      <template>
+        Lunes de 7:00 a 17:00 Hrs ---
+        Martes de 7:00 a 17:00 Hrs ---
+        Miercoles de 7:00 a 17:00 Hrs ---
+        Jueves de 7:00 a 17:00 Hrs ---
+        Viernes de 7:00 a 17:00 Hrs ---
+        Sabado de 8:00 a 12:00 Hrs ---
+      </template>
+</category>
+
+
+<category>
+      <pattern>HORARIOS *</pattern>
+      <template>
+        Lunes de 7:00 a 17:00 Hrs ---
+        Martes de 7:00 a 17:00 Hrs ---
+        Miercoles de 7:00 a 17:00 Hrs ---
+        Jueves de 7:00 a 17:00 Hrs ---
+        Viernes de 7:00 a 17:00 Hrs ---
+        Sabado de 8:00 a 12:00 Hrs ---
+      </template>
+</category>
+
+
+<category>
+      <pattern>HORARIO *</pattern>
+      <template>
+        Lunes de 7:00 a 17:00 Hrs ---
+        Martes de 7:00 a 17:00 Hrs ---
+        Miercoles de 7:00 a 17:00 Hrs ---
+        Jueves de 7:00 a 17:00 Hrs ---
+        Viernes de 7:00 a 17:00 Hrs ---
+        Sabado de 8:00 a 12:00 Hrs ---
+      </template>
+</category>
+
+
+<category>
+      <pattern>* HORARIOS</pattern>
+      <template>
+        Lunes de 7:00 a 17:00 Hrs ---
+        Martes de 7:00 a 17:00 Hrs ---
+        Miercoles de 7:00 a 17:00 Hrs ---
+        Jueves de 7:00 a 17:00 Hrs ---
+        Viernes de 7:00 a 17:00 Hrs ---
+        Sabado de 8:00 a 12:00 Hrs ---
+      </template>
+</category>
+
+
+<category>
+      <pattern>* HORARIO</pattern>
+      <template>
+        Lunes de 7:00 a 17:00 Hrs ---
+        Martes de 7:00 a 17:00 Hrs ---
+        Miercoles de 7:00 a 17:00 Hrs ---
+        Jueves de 7:00 a 17:00 Hrs ---
+        Viernes de 7:00 a 17:00 Hrs ---
+        Sabado de 8:00 a 12:00 Hrs ---
+      </template>
+</category>
+
+
+<category>
+      <pattern>HORARIO</pattern>
+      <template>
+        Lunes de 7:00 a 17:00 Hrs ---
+        Martes de 7:00 a 17:00 Hrs ---
+        Miercoles de 7:00 a 17:00 Hrs ---
+        Jueves de 7:00 a 17:00 Hrs ---
+        Viernes de 7:00 a 17:00 Hrs ---
+        Sabado de 8:00 a 12:00 Hrs ---
+      </template>
+</category>
+
+
+<category>
+      <pattern>HORARIOS</pattern>
+      <template>
+        Lunes de 7:00 a 17:00 Hrs ---
+        Martes de 7:00 a 17:00 Hrs ---
+        Miercoles de 7:00 a 17:00 Hrs ---
+        Jueves de 7:00 a 17:00 Hrs ---
+        Viernes de 7:00 a 17:00 Hrs ---
+        Sabado de 8:00 a 12:00 Hrs ---
+      </template>
+</category>
+
+
+<category>
+      <pattern>* OFERTAS</pattern>
+      <template>
+        2 X 1 Lunes a Miercoles  -.
+        15% de Descuento los dias Jueves y Viernes  -.
+        5% de Descuento el dia Sabado  -.
+      </template>
+</category>
+
+
+<category>
+      <pattern>OFERTAS *</pattern>
+      <template>
+        2 X 1 Lunes a Miercoles  -.
+        15% de Descuento los dias Jueves y Viernes  -.
+        5% de Descuento el dia Sabado  -.
+      </template>
+</category>
+
+
+<category>
+      <pattern>* OFERTAS *</pattern>
+      <template>
+        2 X 1 Lunes a Miercoles  -.
+        15% de Descuento los dias Jueves y Viernes  -.
+        5% de Descuento el dia Sabado  -.
+      </template>
+</category>      
+
+
+<category>
+      <pattern>OFERTAS</pattern>
+      <template>
+        2 X 1 Lunes a Miercoles  -.
+        15% de Descuento los dias Jueves y Viernes  -.
+        5% de Descuento el dia Sabado  -.
+      </template>
+</category>
+
+
+<category>
+      <pattern>2X1</pattern>
+      <template>
+        Zapatos  -
+        Lenceria  -
+        Accesorios
+      </template>
+</category>
+
+
+<category>
+      <pattern>* 2X1</pattern>
+      <template>
+        Zapatos  -
+        Lenceria  -
+        Accesorios
+      </template>
+</category>
+
+
+<category>
+      <pattern>2X1 *</pattern>
+      <template>
+        Zapatos  -
+        Lenceria  -
+        Accesorios
+      </template>
+</category>
+
+<category>
+      <pattern>* 2X1 *</pattern>
+      <template>
+        Zapatos  -
+        Lenceria  -
+        Accesorios
+      </template>
+</category>
+
+
+<category>
+      <pattern>EL 15</pattern>
+      <template>
+        Ropa de niños  -
+        Camisas  -
+        Playeras  -
+        Pantalones  -
+      </template>
+</category>
+
+
+<category>
+      <pattern>* EL 15</pattern>
+      <template>
+        Ropa de niños  -
+        Camisas  -
+        Playeras  -
+        Pantalones  -
+      </template>
+</category>
+
+
+<category>
+      <pattern>EL 15 *</pattern>
+      <template>
+        Ropa de niños  -
+        Camisas  -
+        Playeras  -
+        Pantalones  -
+      </template>
+</category>
+
+<category>
+      <pattern>* EL 15 *</pattern>
+      <template>
+        Ropa de niños  -
+        Camisas  -
+        Playeras  -
+        Pantalones  -
+      </template>
+</category>
+
+
+<category>
+      <pattern>EL 5</pattern>
+      <template>
+        En Toda la tienda
+      </template>
+</category>
+
+
+<category>
+      <pattern>* EL 5</pattern>
+      <template>
+        En Toda la tienda
+      </template>
+</category>
+
+
+<category>
+      <pattern>EL 5 *</pattern>
+      <template>
+        En Toda la tienda
+      </template>
+</category>
+
+<category>
+      <pattern>* EL 5 *</pattern>
+      <template>
+        En Toda la tienda
+      </template>
+</category>
+
+
+<category>
+      <pattern>PAGO</pattern>
+      <template>
+        Efectivo  -
+        Tarjeta Cred / Deb  -
+        Visacutoas  -
+        Contra Entrega  
+      </template>
+</category>
+
+
+<category>
+      <pattern>* PAGO</pattern>
+      <template>
+        Efectivo  -
+        Tarjeta Cred / Deb  -
+        Visacutoas  -
+        Contra Entrega  
+      </template>
+</category>
+
+
+<category>
+      <pattern>PAGO *</pattern>
+      <template>
+        Efectivo  -
+        Tarjeta Cred / Deb  -
+        Visacutoas  -
+        Contra Entrega  
+      </template>
+</category>
+
+
+<category>
+      <pattern>* PAGO *</pattern>
+      <template>
+        Efectivo  -
+        Tarjeta Cred / Deb  -
+        Visacutoas  -
+        Contra Entrega  
+      </template>
+</category>
+
+
+<category>
+      <pattern>ENTREGA</pattern>
+      <template>
+        La entrega es en la ciudad caiptal o en el interior del pais?
+      </template>
+</category>
+
+
+<category>
+      <pattern>* ENTREGA</pattern>
+      <template>
+        La entrega es en la ciudad caiptal o en el interior del pais?
+      </template>
+</category>
+
+
+<category>
+      <pattern>ENTREGA *</pattern>
+      <template>
+        La entrega es en la ciudad caiptal o en el interior del pais?
+      </template>
+</category>
+
+
+<category>
+      <pattern>* ENTREGA *</pattern>
+      <template>
+        La entrega es en la ciudad caiptal o en el interior del pais?
+      </template>
+</category>
+
+
+<category>
+      <pattern>CAPITAL</pattern>
+      <template>
+        La entrega tiene un aproximado de 24 hrs.
+      </template>
+</category>
+
+
+<category>
+      <pattern>CAPITAL *</pattern>
+      <template>
+        La entrega tiene un aproximado de 24 hrs.
+      </template>
+</category>
+
+<category>
+      <pattern>* CAPITAL</pattern>
+      <template>
+        La entrega tiene un aproximado de 24 hrs.
+      </template>
+</category>
+
+
+<category>
+      <pattern>* CAPITAL *</pattern>
+      <template>
+        La entrega tiene un aproximado de 24 hrs.
+      </template>
+</category>
+
+
+<category>
+      <pattern>INTERIOR</pattern>
+      <template>
+        La entrega tiene un aproximado de 3 dias.
+      </template>
+</category>
+
+
+<category>
+      <pattern>INTERIOR *</pattern>
+      <template>
+        La entrega tiene un aproximado de 3 dias.
+      </template>
+</category>
+
+
+<category>
+      <pattern>* INTERIOR</pattern>
+      <template>
+        La entrega tiene un aproximado de 3 dias.
+      </template>
+</category>
+
+
+<category>
+      <pattern>* INTERIOR *</pattern>
+      <template>
+        La entrega tiene un aproximado de 3 dias.
+      </template>
+</category>
+
+
+<category>
+      <pattern>VENTAS</pattern>
+      <template>
+        Un asesor de ventas se estara comunicando en unos momentos con su persona.
+      </template>
+</category>
+
+
+<category>
+      <pattern>VENTAS *</pattern>
+      <template>
+        Un asesor de ventas se estara comunicando en unos momentos con su persona.
+      </template>
+</category>
+
+
+<category>
+      <pattern>* VENTAS</pattern>
+      <template>
+        Un asesor de ventas se estara comunicando en unos momentos con su persona.
+      </template>
+</category>
+
+
+<category>
+      <pattern>* VENTAS *</pattern>
+      <template>
+        Un asesor de ventas se estara comunicando en unos momentos con su persona.
+      </template>
+</category>
+
+
+<category>
+      <pattern>GRACIAS</pattern>
+      <template>
+        Es un gusto poder atenderte, cualquier duda puede escribirnos.
+      </template>
+</category>
+
+<category>
+      <pattern>GRACIAS *</pattern>
+      <template>
+        Es un gusto poder atenderte, cualquier duda puede escribirnos.
+      </template>
+</category>
+
+<category>
+      <pattern>* GRACIAS</pattern>
+      <template>
+        Es un gusto poder atenderte, cualquier duda puede escribirnos.
+      </template>
+</category>
+
+<category>
+      <pattern>* GRACIAS *</pattern>
+      <template>
+        Es un gusto poder atenderte, cualquier duda puede escribirnos.
+      </template>
+</category>
+
+
+
+
+
+</aiml>
